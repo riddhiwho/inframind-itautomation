@@ -27,7 +27,7 @@ func init() {
 type param string
 
 const (
-	// ServerID parameter for serverid
+	// ServerID parameter for serverid comment
 	ServerID param = "serverid"
 	// CPUUsage parameter for cpuusage
 	CPUUsage param = "cpu"
